@@ -1,6 +1,6 @@
 # Today I Learned
 
-Recording my daily sofrware development life.
+Recording my daily software development life.
 
 [MY TIL](https://vigilant-gates-e44583.netlify.app/#/)
 
