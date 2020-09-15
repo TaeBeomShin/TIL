@@ -1,6 +1,6 @@
 # Today I Learned
 
-> :pencil2:Recording my daily software development life.
+> :pencil2: Recording my daily software development life.
 
 [MY TIL](https://vigilant-gates-e44583.netlify.app/#/)
 
