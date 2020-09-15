@@ -1,5 +1,5 @@
 # Today I Learned
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c4cf4049-2e26-4c39-a960-53e952428b7b/deploy-status)](https://app.netlify.com/sites/todayejlearned/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8daf2a5f-5d42-4956-8675-c29771226065/deploy-status)](https://app.netlify.com/sites/vigilant-gates-e44583/deploys)
 > :pencil2: Recording my daily software development life.
 
 [MY TIL](https://vigilant-gates-e44583.netlify.app/#/)
