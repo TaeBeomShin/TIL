@@ -1,3 +1,3 @@
-- Weekly Plan/Record
+-##Weekly Plan/Record
 
-  -[2020/09/15](0914~0920.md "First Start TIL")
+- [2020/09/15](./docs/0914~0920.md)
