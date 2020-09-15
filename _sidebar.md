@@ -1,3 +1,5 @@
--##Weekly Plan/Record
+- [Home](_coverpage.md)
 
-- [2020/09/15](./docs/0914~0920.md)
+- Weekly Plan/Record
+
+- - [- Week1 (0914~0920) ](./docs/0914~0920.md)
