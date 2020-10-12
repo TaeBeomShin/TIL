@@ -115,3 +115,10 @@ And I think it would be better if i write down tomorrow to do list to stimulate 
 3. And its time to study for Engineer Information Processing, 2h.
 4. boj 2nd course & ps(7 - bfs&brute force&dp) 4h
 5. etc.
+
+## 10/12
+
+1. 리액트, firebase, jquery, socket.io 등등  새로 배우고 부딪히다보니 모르던 개념이 마구마구 튀어나와서 어렵다.
+2. 알고리즘 공부 매일해야하는데, 하루 1문제라도 풀어야지.. 점점 c++ 지원안해주는 곳이 생겨 python이랑 병행해서 풀어야겠다.. ㅠㅠ
+3. 여러가지 하루에 나눠서 하려니 못하겠다. 자소서는 하루날잡고 그때만 쓰고, 평소에는 알고리즘, 프로젝트 공부, 학교수업/과제에만 투자하자..
+4. 내일도 화이팅!
