@@ -10,3 +10,10 @@
 1. 응용 : 다익스트라 알고리즘(VlogE 시간복잡도), 힙 정렬알고리즘(까먹은듯.. ㅠ).
 
 - 풀어볼 문제 :boj 11279 최대힙, boj 1927 최소힙, boj11286 절댓값 힙, boj 1715,2075,2014,2696
+
+## greedy algorithm
+
+1. Def: Selecting best solution at that moment(satisfying greedy choice property & optimal substructure)
+1. can used with heap structure
+1. application : dijkstra algorithm(with heap)
+1. problems : scheduling algorithm, coin selecting, 

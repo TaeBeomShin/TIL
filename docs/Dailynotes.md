@@ -121,4 +121,11 @@ And I think it would be better if i write down tomorrow to do list to stimulate 
 1. 리액트, firebase, jquery, socket.io 등등  새로 배우고 부딪히다보니 모르던 개념이 마구마구 튀어나와서 어렵다.
 2. 알고리즘 공부 매일해야하는데, 하루 1문제라도 풀어야지.. 점점 c++ 지원안해주는 곳이 생겨 python이랑 병행해서 풀어야겠다.. ㅠㅠ
 3. 여러가지 하루에 나눠서 하려니 못하겠다. 자소서는 하루날잡고 그때만 쓰고, 평소에는 알고리즘, 프로젝트 공부, 학교수업/과제에만 투자하자..
-4. 내일도 화이팅!
+
+## 10/15
+
+1. 연결리스트 스택을 이용한 infix postfix conversion 구현
+2. request,beautifulsoup을 이용한 웹스크래핑
+3. greedy알고리즘 문제풀이 6문제..
+4. ds, swengineering 시험공부. 를 했다...
+5. 좀 더 계획적으로 시간을 써야겠다.ㅠ
